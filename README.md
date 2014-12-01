@@ -4,8 +4,8 @@
 良いテストコードではないので、注意してください。
 
 # 構成
-src/test/groovy: Geb+Spockのテストコードの例
-src/test/java: Selenium+JUnitのテストコードの例
+* src/test/groovy: Geb+Spockのテストコードの例
+* src/test/java: Selenium+JUnitのテストコードの例
 
 # 環境準備
 
